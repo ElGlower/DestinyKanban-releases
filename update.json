@@ -1,11 +1,11 @@
 {
-  "version": "4.4.0",
+  "version": "4.5.0",
   "notes": "Solucionado el algoritmo de compresion y verificacion de firma en vivo.",
-  "pub_date": "2026-08-07T05:18:55.049Z",
+  "pub_date": "2026-08-07T05:26:19.430Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeG1JSEs2Q3Z3QzVDL1NCYzVBdGZrZnlQRkxEY0NzQmZ5QWVIWUR3VG5idFN3VGwzWlhjSUx3WWRPMk55ZWhlNk1DMi8zUGthdmpaeGVEUDNxSWJhMnZNTjEzbWRKZ3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MDc5OTE2CWZpbGU6RGVzdGlueUthbmJhbl80LjQuMF94NjQtc2V0dXAubnNpcy56aXAKZHp0SjZvSVlMUVZEUmxodUo3ek1ZZXBUdzZ4YVhQdTJIRVNGVkJ5TFBpRUk0S1pxaVROQXQxRkRubldmaFNpb1lnTVZvWENVcVk0NGpzZWZTWHowQ2c9PQo=",
-      "url": "https://github.com/ElGlower/DestinyKanban-releases/releases/download/v4.4.0/DestinyKanban_4.4.0_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeG1JSEs2Q3Z3QzNMOGUrK2hoc2w1TUQ0a0hHN2VSUlVHS2NuV1NJbWRPNHJLY1lCRWRMZVI1ajV3UHJLYW91Sjg2Nmo5amQzT3MzRFEwZ0ltL3JhMVNzV0NmYXc2YkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MDgwMzcxCWZpbGU6RGVzdGlueUthbmJhbl80LjUuMF94NjQtc2V0dXAubnNpcy56aXAKT1BGUXpMb0ZsOGdjYUpLRWxDTCtPeEVhUjNCUnVQeVZzUS9BME9Vc2x2SzdLR3FYL2NsTVZzZVR3bGJjSktGeGFoL1EwbC82QmNzamtseGIwT1QrQUE9PQo=",
+      "url": "https://github.com/ElGlower/DestinyKanban-releases/releases/download/v4.5.0/DestinyKanban_4.5.0_x64-setup.nsis.zip"
     }
   }
 }
