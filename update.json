@@ -1,11 +1,11 @@
 {
-  "version": "5.2.0",
-  "notes": "Rediseño visual frosted glassmorphism de tableros, motor oficial de reportes financieros ejecutivos en PDF con membrete DestinyOwners, nueva interfaz de perfiles de colaboradores con control de deudas y notas, filtros por etiquetas en Proyectos DestinyOwner, KPIs multi-divisa y eliminación total de emojis.",
-  "pub_date": "2026-09-11T21:18:00.000Z",
+  "version": "5.3.0",
+  "notes": "v5.3.0 — Erradicacion total de popups nativos (alert/confirm): PDF in-app con visor A4 + controles de zoom, modal de confirmacion para eliminar tareas, notificaciones toast estilizadas para CSV. Nuevas Estrategias de Pago en el panel admin (Snowball, Avalancha, Prorrateo) con simulador de presupuesto interactivo. Rediseno completo de perfiles de colaboradores: sidebar, 3 KPI cards con mini graficas, tabla de historial de liquidaciones, muro de notas y personalizacion. Armonizacion tipografica: Outfit (titulos), Inter (UI), JetBrains Mono (numeros).",
+  "pub_date": "2026-09-11T21:40:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeG1JSEs2Q3Z3QzFKRVVNTnNZWTF6YUp0aW93Y3Z2cllUc0x3TjdySysrMS9YNE5OditCVVBzbmlUWEgvRzlVa3Jpd0UrVFA4NnJ3TGd4S2NPcytYYU5oeHMvYmlhRlFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTYxNDgzCWZpbGU6RGVzdGlueUthbmJhbl81LjIuMF94NjQtc2V0dXAubnNpcy56aXAKQUNmWmNmRGZFV2ZsMjZSL1RQTXkwcWtWYzhYZC9jYWFDdGdJWXVvam1OVnhURmI2aXdKVVVxV3BYbmFzaEgvMms5Uzdia3BzRG82TDQ2RFR6MnVMQWc9PQo=",
-      "url": "https://github.com/ElGlower/DestinyKanban-releases/releases/download/v5.2.0/DestinyKanban_5.2.0_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeG1JSEs2Q3Z3QzhRdEhILzZFNVpuNFk2V0ZXTURnRUlnZWlzbmtpamJVbHVqNDl0WWdtM2Q0STFrejhKYWRkNGpvRElmaTl6Q0Y3b1hYQWl1ZVhZLzl5TXZwTmFJL2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTYyODUzCWZpbGU6RGVzdGlueUthbmJhbl81LjMuMF94NjQtc2V0dXAubnNpcy56aXAKZ1p1bjVLK013UDZWS3dGbEc0QmZEaGlHVi9KY0FXczlZZC9RNWhFa3NrTENrVFMvZTQyZ3Eya3VhSHIrZFZIVndJelVCOTdMcXIxQmxSaTRUODlUQnc9PQo=",
+      "url": "https://github.com/ElGlower/DestinyKanban-releases/releases/download/v5.3.0/DestinyKanban_5.3.0_x64-setup.nsis.zip"
     }
   }
 }
