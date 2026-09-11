@@ -1,11 +1,11 @@
 {
-  "version": "5.1.0",
-  "notes": "Panel de Administración renovado con control directo de honorarios y deudas por colaborador, liquidación atómica, submodales de asignación y pagos, historial de transacciones y refinamiento estético Matte Dark del tablero.",
-  "pub_date": "2026-09-11T20:43:00.000Z",
+  "version": "5.2.0",
+  "notes": "Rediseño visual frosted glassmorphism de tableros, motor oficial de reportes financieros ejecutivos en PDF con membrete DestinyOwners, nueva interfaz de perfiles de colaboradores con control de deudas y notas, filtros por etiquetas en Proyectos DestinyOwner, KPIs multi-divisa y eliminación total de emojis.",
+  "pub_date": "2026-09-11T21:18:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeG1JSEs2Q3Z3QzN4TGxqNUdySVpyZlNyamswaTkzTU5Mb0tjcXY3VWNQdTg2SE9DUmJKcTYzY0NGTWRnOTBIWGRTUy9xUEZ5R0ltU0VJaFBIeXlyWHhvZ0ZjVFN1dmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTU5Mzg3CWZpbGU6RGVzdGlueUthbmJhbl81LjEuMF94NjQtc2V0dXAubnNpcy56aXAKQmtlYjd5NTNpWmtOMnpxc1BaR2NQbGhERmFON1IxY1FLZGtrWnRjcXFEM2V3T3BJMWJpa3gxWnk0SVFVbmhsZ3NwYjVuZmx3dkpaZDNta3hNUTEvQUE9PQo=",
-      "url": "https://github.com/ElGlower/DestinyKanban-releases/releases/download/v5.1.0/DestinyKanban_5.1.0_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeG1JSEs2Q3Z3QzFKRVVNTnNZWTF6YUp0aW93Y3Z2cllUc0x3TjdySysrMS9YNE5OditCVVBzbmlUWEgvRzlVa3Jpd0UrVFA4NnJ3TGd4S2NPcytYYU5oeHMvYmlhRlFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTYxNDgzCWZpbGU6RGVzdGlueUthbmJhbl81LjIuMF94NjQtc2V0dXAubnNpcy56aXAKQUNmWmNmRGZFV2ZsMjZSL1RQTXkwcWtWYzhYZC9jYWFDdGdJWXVvam1OVnhURmI2aXdKVVVxV3BYbmFzaEgvMms5Uzdia3BzRG82TDQ2RFR6MnVMQWc9PQo=",
+      "url": "https://github.com/ElGlower/DestinyKanban-releases/releases/download/v5.2.0/DestinyKanban_5.2.0_x64-setup.nsis.zip"
     }
   }
 }
