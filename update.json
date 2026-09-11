@@ -1,11 +1,11 @@
 {
-  "version": "5.4.0",
-  "notes": "v5.4.0 — Corrección de versión visual en app (v5.4.0), panel compacto de EQUIPO para consultar perfiles de colaboradores, sincronización dinámica de etiquetas de tableros con roles de Ajustes Generales, filtro por roles en panel de administración y nombres serios en estrategias de pago (Pago Progresivo, Pago por Prioridad, Distribución Proporcional).",
-  "pub_date": "2026-09-11T22:20:07.745Z",
+  "version": "5.4.1",
+  "notes": "v5.4.1 — Corrección crítica del validador semántico de versiones: prevención de descensos de versión o alertas de actualización erróneas cuando ya se cuenta con la versión más reciente.",
+  "pub_date": "2026-09-11T22:29:10.851Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeG1JSEs2Q3Z3Qy9vYnVMa0RlcTZxQmJXZHNGazE3VWIwY2o0dUppb25jaW0vZCtVN1dGWnpzeWpORWRVYVN0TjlsL3hIQTkzbGhnbnE3ODBoM2srOGd6NkYrbm03MEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTY1MTk5CWZpbGU6RGVzdGlueUthbmJhbl81LjQuMF94NjQtc2V0dXAubnNpcy56aXAKSjZ2RGpsYzFwUWRkVDhBR2prM3gzTjE1SjQ1bC9HTVpNdytFaWI4NGFIU1k5UWp2M2NzS2xzbXAzR05VMEJOVFNNVDFPbHAwdlVOUjVFVmNyWlp0Q3c9PQo=",
-      "url": "https://github.com/ElGlower/DestinyKanban-releases/releases/download/v5.4.0/DestinyKanban_5.4.0_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeG1JSEs2Q3Z3Q3k4QXFmUlRkbUFCU1BpQ2YwdThPbmNZRnhPS3N0M1FUMFV5MHVnbmlsMko5UmhKN2pYVEttbFY1YTE3K3hXbUdHaUxTdDNTeUR4dUl0dTRkWTlVM3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTY1NzQxCWZpbGU6RGVzdGlueUthbmJhbl81LjQuMV94NjQtc2V0dXAubnNpcy56aXAKYnJyejIvbTBvRlpUZFRQWEE5MG9hUGhjbUd3UkRxMllpSU9kbGVVZ3NpdU9hUnIycUphOTR0MHpLZk1IUEs0M1F3emJmQTVBOFMwYWRBWUthMGNuQmc9PQo=",
+      "url": "https://github.com/ElGlower/DestinyKanban-releases/releases/download/v5.4.1/DestinyKanban_5.4.1_x64-setup.nsis.zip"
     }
   }
 }
