@@ -1,10 +1,10 @@
 {
   "version": "5.5.0",
-  "notes": "v5.5.0 — Pagaré Incondicional Mercantil formal (Luis Javier Flores García), declaración de deudas con requerimientos por colaboradores, roles dinámicos en tiempo real, disposición desahogada de pagos, dashboard ejecutivo con monitor de presencia y conexiones, y registro integral de auditoría.",
-  "pub_date": "2026-09-12T01:10:31.000Z",
+  "notes": "v5.5.0 — Solución de error en guardado de proyectos en Firebase, nuevo sistema multi-etiqueta y asignación de múltiples roles a tableros con edición interactiva, y Dashboard Ejecutivo reestructurado en Panel de Administración con diagnóstico de integridad de datos en tiempo real.",
+  "pub_date": "2026-09-15T17:59:40.648Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeG1JSEs2Q3Z3QzRKaUZhZkgwcEQ0cklDT2NuSjU2QUM2WHRZYjdMVjJwVTIxcHUzeGdrT0pYT0syQiszb0ZHSSs4aWFuRHlvODNxTFNBSTlDWWZkbDNEdmh5OVFZaFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTc1NDMxCWZpbGU6RGVzdGlueUthbmJhbl81LjUuMF94NjQtc2V0dXAubnNpcy56aXAKbGVDQWJNd1kzYXFldUpPbE80ZU1nYlUwdFpjL2RMZFJPWlMxT0hoeHR4Z2FvekVlWlo4b1Z5ellZbVNRdEZRejNHeCtDcHpGcjB5Zlo2Q2ZadGg0QkE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeG1JSEs2Q3Z3QzhtSm5jL2tHdDlnNW1ac2pqWVgwQk01aHgvZWhoWlJhK2VYK2h0UnVjaVByZStTM2pkZ0pYbWpYZDhEVHhiVysxWHNYU0xBOHpGenIwckdYSW40QUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDk1MTQ2CWZpbGU6RGVzdGlueUthbmJhbl81LjQuMF94NjQtc2V0dXAubnNpcy56aXAKWXNzM2lVTzdvdkF4dWpsVk9RMkduMXFiQ2pONWUzRVJhOTJzK0FKcUIrc1J0WmJjVE1OVzVsNDlremRiT1ZnNHV3QWhxS2dIaGN1RXlud2ZsMkhJQXc9PQo=",
       "url": "https://github.com/ElGlower/DestinyKanban-releases/releases/download/v5.5.0/DestinyKanban_5.5.0_x64-setup.nsis.zip"
     }
   }
