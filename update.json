@@ -1,10 +1,10 @@
 {
   "version": "5.5.1",
   "notes": "v5.5.1 — Fixes de sincronizacion offline con triple guardado, eliminacion permanente de tareas en Firebase Firestore, validacion estricta de credenciales en login, contadores de filtros multiusuario y limpieza estructural.",
-  "pub_date": "2026-10-10T21:13:45.156Z",
+  "pub_date": "2026-10-10T21:22:48.116Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeG1JSEs2Q3Z3QzhtSm5jL2tHdDlnNW1ac2pqWVgwQk01aHgvZWhoWlJhK2VYK2h0UnVjaVByZStTM2pkZ0pYbWpYZDhEVHhiVysxWHNYU0xBOHpGenIwckdYSW40QUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDk1MTQ2CWZpbGU6RGVzdGlueUthbmJhbl81LjQuMF94NjQtc2V0dXAubnNpcy56aXAKWXNzM2lVTzdvdkF4dWpsVk9RMkduMXFiQ2pONWUzRVJhOTJzK0FKcUIrc1J0WmJjVE1OVzVsNDlremRiT1ZnNHV3QWhxS2dIaGN1RXlud2ZsMkhJQXc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRamRaY1FZdm5ZN0NRbU9WTllzYm5ZbnRaa29JN2RKZmNPZ3ZpaHZIRkhMYU54dTZXSkM0aUlLUStzTC91NFJZUERIWjBLMlJiS09WWk9mYVQrazVrdXlvMEpyaU1QMGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjY3MzU2CWZpbGU6RGVzdGlueUthbmJhbl81LjUuMV94NjQtc2V0dXAubnNpcy56aXAKYzYvNDNWamt1V1F2SW1IdEJ4eTNJZythejJTTUhhVHA0R2FpZFdlaGtFMDRKQTZPMDFySGZ6WG4zNllJTEUrcE9NeTJUNFhzRE5IWERaM3NrSlU4QVE9PQo=",
       "url": "https://github.com/ElGlower/DestinyKanban-releases/releases/download/v5.5.1/DestinyKanban_5.5.1_x64-setup.nsis.zip"
     }
   }
