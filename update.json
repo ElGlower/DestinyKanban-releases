@@ -1,11 +1,11 @@
 {
-  "version": "5.5.0",
-  "notes": "v5.5.0 — Solución de error en guardado de proyectos en Firebase, nuevo sistema multi-etiqueta y asignación de múltiples roles a tableros con edición interactiva, y Dashboard Ejecutivo reestructurado en Panel de Administración con diagnóstico de integridad de datos en tiempo real.",
-  "pub_date": "2026-09-15T17:59:40.648Z",
+  "version": "5.5.1",
+  "notes": "v5.5.1 — Fixes de sincronizacion offline con triple guardado, eliminacion permanente de tareas en Firebase Firestore, validacion estricta de credenciales en login, contadores de filtros multiusuario y limpieza estructural.",
+  "pub_date": "2026-10-10T21:13:45.156Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeG1JSEs2Q3Z3QzhtSm5jL2tHdDlnNW1ac2pqWVgwQk01aHgvZWhoWlJhK2VYK2h0UnVjaVByZStTM2pkZ0pYbWpYZDhEVHhiVysxWHNYU0xBOHpGenIwckdYSW40QUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDk1MTQ2CWZpbGU6RGVzdGlueUthbmJhbl81LjQuMF94NjQtc2V0dXAubnNpcy56aXAKWXNzM2lVTzdvdkF4dWpsVk9RMkduMXFiQ2pONWUzRVJhOTJzK0FKcUIrc1J0WmJjVE1OVzVsNDlremRiT1ZnNHV3QWhxS2dIaGN1RXlud2ZsMkhJQXc9PQo=",
-      "url": "https://github.com/ElGlower/DestinyKanban-releases/releases/download/v5.5.0/DestinyKanban_5.5.0_x64-setup.nsis.zip"
+      "url": "https://github.com/ElGlower/DestinyKanban-releases/releases/download/v5.5.1/DestinyKanban_5.5.1_x64-setup.nsis.zip"
     }
   }
 }
