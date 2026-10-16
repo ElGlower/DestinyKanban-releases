@@ -1,15 +1,15 @@
 {
-  "version": "5.6.0",
-  "notes": "v5.6.0 — Rediseño visual y animaciones modulares por ventana, corrección integral de modales (Admin, Perfil, Proyectos, Etiquetas, PDF), seguridad reforzada en Firestore y soporte nativo universal para Linux.",
-  "pub_date": "2026-10-16T22:45:00.000Z",
+  "version": "5.7.0",
+  "notes": "v5.7.0 — Tablero Kanban expandido al 100% con controles de densidad y colapsado de columnas, nombres reales de colores y estilos, rediseño corporativo de Perfil y listas de datos, tipografía global funcional y optimización extrema de RAM/CPU.",
+  "pub_date": "2026-10-16T23:20:00.000Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRamRaY1FZdm5ZN0VVcmhzUGFWM1grMWhiMDIrVnp5c1JNZHZsWkdyQWJIRkd0eUhwVWIzRm1Wamxma0w0VlFlZnhDZ0g0SXBDRzdFaEZ2WEJlVktVTUpJWGhIWTZ4UlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjcxMjY2CWZpbGU6RGVzdGlueUthbmJhbl81LjUuMl94NjQtc2V0dXAubnNpcy56aXAKV1NOQXlTcndKR3lOaWhMRStkVHVRNGRSMnpIWkRvY2Y2emFrV3F4bXEyQlNEajhTd2NWSTdWbVM4ZHFOb1JjMDFkRkd5T0lodmlDOVRzNkgxUXlzQ3c9PQo=",
-      "url": "https://github.com/ElGlower/DestinyKanban-releases/releases/download/v5.6.0/DestinyKanban_5.6.0_x64-setup.exe"
+      "url": "https://github.com/ElGlower/DestinyKanban-releases/releases/download/v5.7.0/DestinyKanban_5.7.0_x64-setup.exe"
     },
     "linux-x86_64": {
       "signature": "",
-      "url": "https://github.com/ElGlower/DestinyKanban-releases/releases/download/v5.6.0/DestinyKanban_5.6.0_amd64.AppImage"
+      "url": "https://github.com/ElGlower/DestinyKanban-releases/releases/download/v5.7.0/DestinyKanban_5.7.0_amd64.AppImage"
     }
   }
 }
